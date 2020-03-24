@@ -1,1 +1,1 @@
-#placeholder
+from app import app
